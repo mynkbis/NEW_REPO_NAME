@@ -1,0 +1,27 @@
+.Post_Image{
+    width: 100%;
+    object-fit: contain;  /*will fit the screen*/
+    border: 1px solid lightgray;
+    margin-top: 10px;
+}
+
+.Post_text{
+    font-weight: normal;
+    padding: 20px;
+}
+.Post_header{
+    display: flex;
+    padding: 10px 10px 0 0;
+    align-items: center;
+}
+
+.Post_Avatar{
+    margin-right: 10px;
+}
+
+.Post{
+    max-width: 500px;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-bottom: 40px;
+}

@@ -1,0 +1,21 @@
+
+*{
+  margin: 0;
+
+}
+
+.App{
+  background-color: #fafafa;
+  }
+
+.App_header{
+object-fit: contain;
+background-color: white;
+padding: 20px;
+border-bottom: 1px solid lightgray;
+}
+
+.App_headerImage{
+  height: 30px;
+  width: 100px;
+}
